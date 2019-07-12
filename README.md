@@ -1,2 +1,3 @@
 # ServerLogger.Infra
-ServerLogger.Infra (WebApi, WebJobに対応)
+
+ServerLogger.Infra (WebApi, WebJob�ɑΉ�)
